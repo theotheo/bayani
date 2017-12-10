@@ -1,0 +1,5 @@
+tqdm==4.10.0
+w3lib==1.16.0
+Scrapy==1.2.1
+requests==2.18.4
+coloredlogs==7.3.1
